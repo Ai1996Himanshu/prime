@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">primeno</string>
+    <string name="enter_the_no">enter the no.</string>
+    <string name="prime">prime</string>
+</resources>
